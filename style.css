@@ -1,0 +1,168 @@
+.nav-link {
+    font-family: lato;
+}
+.jumbotron{
+    font-family: lato;
+    background: url("img/Rectangle 3.png") ;
+    background-size: cover;
+    height: 782px;
+    width: 1350px;
+    text-align: center;
+    margin-top: -60px ;
+    background-position: center center;
+}
+.jumbotron .display-4 {
+color: white;
+margin-top: 177px;
+margin-bottom: 39px;
+font-weight: bold;
+font-style: bold;
+font-size: 72px;
+line-height: 86px;
+line-height: 100%;
+Align:left;
+vertical-align: center;
+letter-spacing: 5%;
+
+
+}
+.jumbotron p {
+    color: white;
+    vertical-align: top;
+    align:center;
+    font-style: bold;
+    font-size: 24px;
+    line-height: 36px;
+    line-height: 150%;
+    align:center;
+    vertical-align: top;
+    }
+.jumbotron .btn {
+    background-color: white;
+}
+
+.workingspace{
+    margin-top: 94px;
+
+}
+.workingspace h3{
+    margin:50px 125px 24px 165px;
+    width: 445px;
+    height: 107px;
+    left: 165px;
+    top: 922px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+}
+.workingspace p{
+margin:24px 125px 114px 165px ;
+width: 445px;
+height: 115px;
+left: 165px;
+top: 1053px; 
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 140%;
+
+text-align: justify;
+}
+.workingspace img{
+padding:50px;
+width: 445px;
+height: 311px;
+left: 735px;
+top: 876px;
+border-radius: 15px;
+}
+.features {
+    margin: 63px 165px 63px 165px;
+}
+.TECHNOLOGY{
+    margin: 63px 165px 63px 165px;
+}
+
+.card-deck h1 {
+    font-size: 100px;
+    color: gray;
+}
+
+.pink .col{
+    background-color:#ED4C5C;
+    margin-top: 64px;
+}
+.pink{
+    margin-top: 94px;
+
+}
+.pink h3{
+    margin:50px 125px 24px 165px;
+    width: 445px;
+    height: 107px;
+    left: 165px;
+    top: 922px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+}
+.pink p{
+margin:24px 125px 114px 165px ;
+width: 445px;
+height: 115px;
+left: 165px;
+top: 1053px; 
+font-family: Lato;
+font-style: bold;
+font-weight: normal;
+font-size: 14px;
+line-height: 140%;
+text-align: justify;
+}
+.pink img{
+    margin-top: 30px;
+    padding: 30px;
+    width: 445px;
+    height: 311px;
+    left: 735px;
+    top: 876px;
+    border-radius: 15px;
+    }
+.contact {
+    margin:50px;
+}
+.contact h3{
+    margin:30px 114px 20px 56px;
+    text-align: left;
+}
+
+.contact p{
+    margin:40px 114px 20px 56px;
+    text-align: left;;
+}
+
+.form-group col-md-6 {
+    margin:40px 20px 40px 30px;
+}
+.last {
+    margin:100px 20px 10px 5px;
+}
+.col-last{
+    margin:5px 5px 5px 5px;
+
+}
+.col-last h3{
+margin-left: 5px;
+}
+.col-last p{
+    margin-left: 5px;
+    }
+.col-last img{
+    margin-left:5px;
+    margin-top: 40px;
+}
